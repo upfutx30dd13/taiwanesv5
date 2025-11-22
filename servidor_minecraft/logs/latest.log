@@ -1,0 +1,242 @@
+[17:44:44] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[17:44:46] [ServerMain/INFO]: Loaded 1461 recipes
+[17:44:46] [ServerMain/INFO]: Loaded 1574 advancements
+[17:44:47] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[17:44:47] [Server thread/INFO]: Loading properties
+[17:44:47] [Server thread/INFO]: Default game type: SURVIVAL
+[17:44:47] [Server thread/INFO]: Generating keypair
+[17:44:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:44:47] [Server thread/INFO]: Using epoll channel type
+[17:44:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:44:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:44:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:44:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:44:47] [Server thread/INFO]: Preparing level "world"
+[17:44:47] [Server thread/INFO]: Loading 0 persistent chunks...
+[17:44:47] [Server thread/INFO]: Preparing spawn area: 100%
+[17:44:47] [Server thread/INFO]: Time elapsed: 14 ms
+[17:44:47] [Server thread/INFO]: Done (0.315s)! For help, type "help"
+[17:44:54] [Server thread/INFO]: ADRC_Xx[/10.242.96.252:63609] logged in with entity id 13 at (-221.5, 64.0, 346.5)
+[17:44:54] [Server thread/INFO]: ADRC_Xx joined the game
+[17:45:18] [Server thread/INFO]: hoa_xd[/10.242.148.126:56278] logged in with entity id 670 at (322.30000001192093, 9.0, -348.9983605696028)
+[17:45:18] [Server thread/INFO]: hoa_xd joined the game
+[17:45:43] [Server thread/INFO]: [Not Secure] <ADRC_Xx> xd
+[17:45:47] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=0, y=0, z=0} ja{x=-232, y=68, z=327}
+[17:46:10] [Server thread/INFO]: Zy0r[/10.242.149.228:53871] logged in with entity id 1239 at (2237.24201058531, 64.0, 2281.3558196023064)
+[17:46:10] [Server thread/INFO]: Zy0r joined the game
+[17:48:45] [Server thread/INFO]: ADRC_Xx lost connection: Disconnected
+[17:48:45] [Server thread/INFO]: ADRC_Xx left the game
+[17:49:06] [Server thread/INFO]: ADRC_Xx[/10.242.96.252:54847] logged in with entity id 3250 at (-288.063922573604, 65.0, 271.69999998807907)
+[17:49:06] [Server thread/INFO]: ADRC_Xx joined the game
+[17:50:10] [Server thread/INFO]: ADRC_Xx has made the advancement [Stone Age]
+[17:52:04] [Server thread/INFO]: Zy0r was blown up by Creeper
+[17:52:37] [Server thread/WARN]: Zy0r moved too quickly! 10.133624079467637,-0.018393517762731904,2.8467812563369534
+[17:52:48] [Server thread/INFO]: chino555[/10.242.90.119:49368] logged in with entity id 7152 at (2347.6826391180775, 75.37959064888642, 2196.0621247001313)
+[17:52:48] [Server thread/INFO]: chino555 joined the game
+[17:52:53] [Server thread/WARN]: Zy0r moved too quickly! 10.265504328259112,0.0,8.083396529267361
+[17:53:03] [Server thread/WARN]: Zy0r moved too quickly! 8.519030672697681,0.0,9.110761660598769
+[17:53:07] [Server thread/INFO]: Zy0r lost connection: Disconnected
+[17:53:07] [Server thread/INFO]: Zy0r left the game
+[17:53:14] [Server thread/INFO]: [Not Secure] <chino555> I STILL WISH FOR YOU AT ELEVEN ELEVEN
+[17:53:59] [Server thread/INFO]: Zy0r[/10.242.149.228:57855] logged in with entity id 9957 at (555.1720964130683, 62.021822745232676, 842.1918192199927)
+[17:53:59] [Server thread/INFO]: Zy0r joined the game
+[17:54:09] [Server thread/WARN]: Zy0r moved too quickly! 10.175751631880757,0.0,8.196091525074507
+[17:55:52] [Server thread/INFO]: Zy0r lost connection: Disconnected
+[17:55:52] [Server thread/INFO]: Zy0r left the game
+[17:56:45] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-851, y=64, z=404} ja{x=-850, y=62, z=404}
+[17:56:56] [Server thread/INFO]: Zy0r[/10.242.149.228:57885] logged in with entity id 17454 at (2251.1461525716836, 66.0, 2231.6748237074657)
+[17:56:56] [Server thread/INFO]: Zy0r joined the game
+[17:58:36] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=2260, y=64, z=2274} ja{x=2259, y=62, z=2274}
+[17:58:44] [Server thread/INFO]: ADRC_Xx has made the advancement [Getting an Upgrade]
+[18:01:19] [Server thread/INFO]: ADRC_Xx has made the advancement [Acquire Hardware]
+[18:02:29] [Server thread/INFO]: Zy0r has made the advancement [Best Friends Forever]
+[18:03:48] [Server thread/INFO]: Zy0r was shot by Skeleton
+[18:03:50] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=2595, y=61, z=2200} ja{x=2595, y=62, z=2200}
+[18:03:59] [Server thread/INFO]: chino555 was blown up by Creeper
+[18:04:13] [Server thread/INFO]: [Not Secure] <Zy0r> XD
+[18:04:21] [Server thread/INFO]: [Not Secure] <hoa_xd> XDD
+[18:04:47] [Server thread/WARN]: Zy0r moved too quickly! 11.700504712779093,0.0,-5.416737598779434
+[18:04:58] [Server thread/WARN]: Zy0r moved too quickly! 12.447989761300505,0.0,-3.793218681849879
+[18:05:11] [Server thread/INFO]: [Not Secure] <ADRC_Xx> JAKAKAJ
+[18:05:14] [Server thread/INFO]: [Not Secure] <hoa_xd> XDD
+[18:05:19] [Server thread/INFO]: [Not Secure] <ADRC_Xx> ESTAN BIEN?
+[18:06:34] [Server thread/WARN]: Zy0r moved wrongly!
+[18:06:47] [Server thread/INFO]: ADRC_Xx has made the advancement [Isn't It Iron Pick]
+[18:07:22] [Server thread/INFO]: ADRC_Xx has made the advancement [Monster Hunter]
+[18:09:21] [Server thread/WARN]: Zy0r moved wrongly!
+[18:10:20] [Server thread/WARN]: Zy0r moved wrongly!
+[18:11:00] [Server thread/WARN]: Zy0r moved too quickly! -12.777776580451814,0.0,2.4842954176807552
+[18:11:04] [Server thread/INFO]: ADRC_Xx has made the advancement [Diamonds!]
+[18:11:26] [Server thread/INFO]: ADRC_Xx was blown up by Creeper
+[18:11:30] [Server thread/INFO]: [Not Secure] <chino555> XDDD
+[18:11:37] [Server thread/INFO]: [Not Secure] <ADRC_Xx> NO LE VI
+[18:11:44] [Server thread/INFO]: [Not Secure] <chino555> gg ez
+[18:11:44] [Server thread/INFO]: [Not Secure] <ADRC_Xx> MALDITO
+[18:11:53] [Server thread/INFO]: [Not Secure] <Zy0r> GGEZ
+[18:11:55] [Server thread/INFO]: [Not Secure] <chino555> B)
+[18:11:57] [Server thread/INFO]: [Not Secure] <ADRC_Xx> A VOS TB TE DETONO CHINO
+[18:12:05] [Server thread/INFO]: [Not Secure] <chino555> yo si recupere mis cosas
+[18:12:14] [Server thread/INFO]: [Not Secure] <ADRC_Xx> QUIEN DICE Q YO NO
+[18:12:28] [Server thread/INFO]: [Not Secure] <ADRC_Xx> perdon me olvide de klas mayusculas
+[18:12:30] [Server thread/INFO]: [Not Secure] <chino555> no sos tan inteligente pa guardar spawn en una cueva
+[18:12:50] [Server thread/INFO]: [Not Secure] <ADRC_Xx> quien dice chino
+[18:13:03] [Server thread/INFO]: [Not Secure] <chino555> de donde sale un creeper y diamantes?
+[18:13:29] [Server thread/INFO]: [Not Secure] <ADRC_Xx> de una cueva de donde mas
+[18:13:33] [Server thread/WARN]: Zy0r moved wrongly!
+[18:13:37] [Server thread/INFO]: [Not Secure] <ADRC_Xx> yo nunca dije
+[18:13:39] [Server thread/INFO]: [Not Secure] <chino555> y por eso se que estabas en una
+[18:13:45] [Server thread/INFO]: [Not Secure] <ADRC_Xx> q no estaba en una cueva
+[18:13:48] [Server thread/INFO]: [Not Secure] <chino555> ore wa egoista
+[18:14:06] [Server thread/INFO]: [Not Secure] <ADRC_Xx> solo dije q no sabes si guarde spawn
+[18:14:24] [Server thread/INFO]: [Not Secure] <chino555> no te pusiste calabaza por es se que no guardaste spawn
+[18:14:41] [Server thread/INFO]: [Not Secure] <ADRC_Xx> ah
+[18:14:48] [Server thread/WARN]: Zy0r moved too quickly! -9.820400884839273,0.0,-4.000960637810522
+[18:14:48] [Server thread/WARN]: Zy0r moved wrongly!
+[18:14:51] [Server thread/INFO]: [Not Secure] <ADRC_Xx> ya recupere
+[18:14:55] [Server thread/INFO]: [Not Secure] <chino555> no soy imbecil axel mis propios juegos mentales no andan en mi
+[18:15:07] [Server thread/INFO]: [Not Secure] <ADRC_Xx> no son tus juegos mentales
+[18:15:18] [Server thread/INFO]: [Not Secure] <chino555> pos soy el que mas los usa
+[18:15:24] [Server thread/INFO]: [Not Secure] <ADRC_Xx> pdj
+[18:15:30] [Server thread/INFO]: [Not Secure] <ADRC_Xx> no los inventaste
+[18:16:10] [Server thread/INFO]: [Not Secure] <chino555> Acaso ruffini invento como factorizar binomios?
+[18:16:19] [Server thread/INFO]: [Not Secure] <chino555> no solo lo agilizo y ahora es su forma
+[18:16:26] [Server thread/INFO]: [Not Secure] <chino555> pues estos son mis juegos mentales
+[18:16:27] [Server thread/INFO]: [Not Secure] <chino555> B)
+[18:16:34] [Server thread/INFO]: [Not Secure] <hoa_xd> tai callate noma ya
+[18:16:46] [Server thread/INFO]: [Not Secure] <chino555> mano toy escribiendo no hablando mano
+[18:16:49] [Server thread/INFO]: [Not Secure] <ADRC_Xx> vos no los ajilisaste ni sos el mejor usandolos
+[18:16:56] [Server thread/INFO]: [Not Secure] <chino555> le estoy quitando tiempo no mas axel pa que escriba
+[18:17:00] [Server thread/INFO]: [Not Secure] <hoa_xd> axel va a recuperar he i
+[18:17:02] [Server thread/INFO]: [Not Secure] <chino555> mientras yo farmeo caña de azucar
+[18:17:12] [Server thread/INFO]: [Not Secure] <ADRC_Xx> tai copion
+[18:17:20] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-1418, y=64, z=1139} ja{x=-1418, y=62, z=1140}
+[18:19:08] [Server thread/INFO]: [Not Secure] <chino555> ñ
+[18:19:18] [Server thread/INFO]: [Not Secure] <chino555> xd se ve como la mrd la ñ en este texture pack
+[18:19:44] [Server thread/INFO]: [Not Secure] * chino555 cayó desde muy alto
+[18:19:49] [Server thread/INFO]: [Not Secure] <hoa_xd> XDDDDDDDDDDDDDDDDDDDDDD
+[18:19:51] [Server thread/INFO]: [Not Secure] <hoa_xd> deah
+[18:19:54] [Server thread/INFO]: [Not Secure] <chino555> deahh
+[18:21:21] [Server thread/INFO]: [Not Secure] <Zy0r> duerman pe
+[18:21:39] [Server thread/INFO]: [Not Secure] <ADRC_Xx> t
+[18:21:46] [Server thread/INFO]: [Not Secure] <chino555> Duerman
+[18:21:47] [Server thread/INFO]: ADRC_Xx lost connection: Disconnected
+[18:21:47] [Server thread/INFO]: ADRC_Xx left the game
+[18:21:49] [Server thread/INFO]: Zy0r lost connection: Disconnected
+[18:21:49] [Server thread/INFO]: Zy0r left the game
+[18:21:58] [Server thread/INFO]: ADRC_Xx[/10.242.96.252:63830] logged in with entity id 70082 at (-177.45559139030297, 34.0, 389.69999998807907)
+[18:21:58] [Server thread/INFO]: ADRC_Xx joined the game
+[18:22:12] [Server thread/INFO]: Zy0r[/10.242.149.228:49154] logged in with entity id 70836 at (-1442.8997826231596, 63.0, 1344.9748385763842)
+[18:22:12] [Server thread/INFO]: Zy0r joined the game
+[18:25:19] [Server thread/INFO]: [Not Secure] <chino555> gracias por todo no puedo mas
+[18:25:22] [Server thread/INFO]: [Not Secure] <chino555> pico de tai
+[18:25:36] [Server thread/INFO]: [Not Secure] <chino555> la concha de la lora pico de diamante mis bolas pico de papel
+[18:33:03] [Server thread/INFO]: [Not Secure] <chino555> duerman peruanos
+[18:33:06] [Server thread/INFO]: [Not Secure] <chino555> peru peruanos
+[18:33:09] [Server thread/INFO]: [Not Secure] <chino555> duerman
+[18:33:11] [Server thread/INFO]: [Not Secure] <ADRC_Xx> nop
+[18:33:11] [Server thread/INFO]: [Not Secure] <chino555> pa hoy
+[18:33:14] [Server thread/INFO]: Zy0r lost connection: Disconnected
+[18:33:14] [Server thread/INFO]: Zy0r left the game
+[18:33:18] [Server thread/INFO]: [Not Secure] <hoa_xd> si duermo aca me muero
+[18:33:22] [Server thread/INFO]: [Not Secure] <chino555> y si
+[18:33:25] [Server thread/INFO]: [Not Secure] <chino555> ese es el punto
+[18:33:27] [Server thread/INFO]: [Not Secure] <hoa_xd> deja mato a la dragona primero
+[18:33:28] [Server thread/INFO]: Zy0r[/10.242.149.228:56396] logged in with entity id 93291 at (-2065.6982421875, 93.84375002384186, 1568.6982421875)
+[18:33:28] [Server thread/INFO]: Zy0r joined the game
+[18:33:33] [Server thread/INFO]: [Not Secure] <Zy0r> duerman o kick
+[18:33:38] [Server thread/INFO]: ADRC_Xx lost connection: Disconnected
+[18:33:38] [Server thread/INFO]: ADRC_Xx left the game
+[18:33:40] [Server thread/INFO]: Zy0r lost connection: Disconnected
+[18:33:40] [Server thread/INFO]: Zy0r left the game
+[18:33:41] [Server thread/INFO]: [Not Secure] <hoa_xd> XDD
+[18:33:45] [Server thread/INFO]: [Not Secure] <chino555> XDDD
+[18:33:49] [Server thread/INFO]: [Not Secure] <chino555> JUAN SOS EL GOAT
+[18:33:51] [Server thread/INFO]: [Not Secure] <hoa_xd> a se salio
+[18:33:53] [Server thread/INFO]: ADRC_Xx[/10.242.96.252:63817] logged in with entity id 94042 at (-117.69999998807907, 43.0, 462.69999998807907)
+[18:33:53] [Server thread/INFO]: ADRC_Xx joined the game
+[18:33:54] [Server thread/INFO]: Zy0r[/10.242.149.228:56403] logged in with entity id 94166 at (-2065.926335810912, 93.99375002384187, 1564.208349611891)
+[18:33:54] [Server thread/INFO]: Zy0r joined the game
+[18:33:56] [Server thread/INFO]: [Not Secure] <hoa_xd> se salio ko nomas xd
+[18:34:01] [Server thread/INFO]: [Not Secure] <hoa_xd> no le saco
+[18:34:10] [Server thread/INFO]: [Not Secure] <ADRC_Xx> yo sali tai
+[18:34:38] [Server thread/INFO]: Zy0r hit the ground too hard
+[18:34:43] [Server thread/INFO]: [Not Secure] <hoa_xd> XDDDD
+[18:34:50] [Server thread/INFO]: [Not Secure] <ADRC_Xx> pobre juan
+[18:35:00] [Server thread/INFO]: [Not Secure] <ADRC_Xx> el suelo lo maltrata
+[18:35:01] [Server thread/WARN]: Zy0r moved wrongly!
+[18:35:08] [Server thread/INFO]: [Not Secure] <Zy0r> maldito cabañollo
+[18:35:09] [Server thread/WARN]: Zy0r moved too quickly! -9.662079504943563,0.0,3.493764301617375
+[18:36:03] [Server thread/INFO]: [Zy0r: Set own game mode to Creative Mode]
+[18:36:38] [Server thread/INFO]: [Zy0r: Set own game mode to Survival Mode]
+[18:37:13] [Server thread/INFO]: [Not Secure] <chino555> ZEUS
+[18:39:37] [Server thread/INFO]: ADRC_Xx has made the advancement [Suit Up]
+[18:44:59] [Server thread/WARN]: Horse (vehicle of Zy0r) moved too quickly! 7.872304873924577,0.0,6.482135083472713
+[18:44:59] [Server thread/WARN]: Horse (vehicle of Zy0r) moved too quickly! 8.996919855913802,0.0,7.408154381111672
+[18:44:59] [Server thread/WARN]: Horse (vehicle of Zy0r) moved too quickly! 10.121534837903027,0.0,8.33417367875063
+[18:44:59] [Server thread/WARN]: Horse (vehicle of Zy0r) moved too quickly! 11.246149819892253,0.0,9.26019297638959
+[18:44:59] [Server thread/WARN]: Horse (vehicle of Zy0r) moved too quickly! -8.410465694306481,0.0,-5.652575302623518
+[18:44:59] [Server thread/WARN]: Horse (vehicle of Zy0r) moved too quickly! -8.410465694306481,0.0,-5.652575302623518
+[18:44:59] [Server thread/WARN]: Horse (vehicle of Zy0r) moved too quickly! -8.410465694306481,0.0,-5.652575302623518
+[18:44:59] [Server thread/WARN]: Horse (vehicle of Zy0r) moved too quickly! -8.410465694306481,0.0,-5.652575302623518
+[18:45:17] [Server thread/INFO]: [Not Secure] <chino555> duerman
+[18:45:29] [Server thread/INFO]: [Not Secure] <ADRC_Xx> voy
+[18:45:29] [Server thread/INFO]: [Not Secure] <chino555> hoa vo no
+[18:45:36] [Server thread/INFO]: [Not Secure] <hoa_xd> a weno
+[18:45:43] [Server thread/INFO]: ADRC_Xx has made the advancement [Sweet Dreams]
+[18:45:43] [Server thread/INFO]: Zy0r lost connection: Disconnected
+[18:45:43] [Server thread/INFO]: Zy0r left the game
+[18:45:56] [Server thread/INFO]: Zy0r[/10.242.149.228:61646] logged in with entity id 121893 at (-742.6999999880791, 61.875, 2377.699999988079)
+[18:45:56] [Server thread/INFO]: Zy0r joined the game
+[18:49:11] [Server thread/INFO]: chino555 has made the advancement [Light as a Rabbit]
+[18:49:14] [Server thread/WARN]: Horse (vehicle of Zy0r) moved wrongly! 1.0044224915806694
+[18:49:14] [Server thread/WARN]: Horse (vehicle of Zy0r) moved wrongly! 2.269110846115238
+[18:49:14] [Server thread/WARN]: Horse (vehicle of Zy0r) moved wrongly! 3.6143433002236014
+[18:49:14] [Server thread/WARN]: Horse (vehicle of Zy0r) moved wrongly! 5.009774355449501
+[18:49:14] [Server thread/WARN]: Horse (vehicle of Zy0r) moved wrongly! 6.430812722071279
+[18:49:14] [Server thread/WARN]: Horse (vehicle of Zy0r) moved wrongly! 7.871940858281877
+[18:49:14] [Server thread/WARN]: Horse (vehicle of Zy0r) moved wrongly! 9.322396865333506
+[18:49:14] [Server thread/WARN]: Horse (vehicle of Zy0r) moved too quickly! 10.741295519120456,-0.14510670065163822,-1.4108870577633752
+[18:49:14] [Server thread/WARN]: Horse (vehicle of Zy0r) moved too quickly! 12.141690314363814,-0.5926045976350593,-1.0094336205893342
+[18:49:14] [Server thread/WARN]: Horse (vehicle of Zy0r) moved too quickly! 13.484044774490144,-1.1095525467400336,-0.4434345916588427
+[18:49:14] [Server thread/WARN]: Horse (vehicle of Zy0r) moved too quickly! 14.82068915347395,-1.6945615482487852,0.13592052198782767
+[18:53:26] [Server thread/INFO]: ADRC_Xx has made the advancement [Ice Bucket Challenge]
+[18:53:54] [Server thread/WARN]: Zy0r moved too quickly! 12.9390456640715,0.0,-1.8218095363258726
+[18:54:11] [Server thread/WARN]: Zy0r moved wrongly!
+[18:54:49] [Server thread/WARN]: Zy0r moved wrongly!
+[18:55:32] [Server thread/WARN]: Zy0r moved wrongly!
+[18:55:33] [Server thread/WARN]: Zy0r moved wrongly!
+[18:56:14] [Server thread/INFO]: [Not Secure] <chino555> knee socks
+[18:56:25] [Server thread/WARN]: Zy0r moved too quickly! 5.934307353884378,4.328281638870436,-9.341212151494801
+[18:56:30] [Server thread/WARN]: Zy0r moved too quickly! 12.248920436889875,3.7200001478108504,-0.8511790233001193
+[18:56:32] [Server thread/INFO]: [Not Secure] <hoa_xd> muy chill ya ustedes
+[18:56:36] [Server thread/INFO]: [Not Secure] <chino555> si
+[18:56:53] [Server thread/INFO]: [Not Secure] <ADRC_Xx> duerman
+[18:56:55] [Server thread/INFO]: [Not Secure] <chino555> Duerman
+[18:56:58] [Server thread/INFO]: Zy0r lost connection: Disconnected
+[18:56:58] [Server thread/INFO]: Zy0r left the game
+[18:57:00] [Server thread/INFO]: [Not Secure] <ADRC_Xx> o salgan
+[18:57:08] [Server thread/INFO]: Zy0r[/10.242.149.228:63520] logged in with entity id 150347 at (3631.042073454698, 78.0, 1229.936430472292)
+[18:57:08] [Server thread/INFO]: Zy0r joined the game
+[19:00:56] [Server thread/WARN]: Zy0r moved too quickly! 11.111091094487165,4.496109136698067,2.995960514516014
+[19:01:01] [Server thread/INFO]: chino555 lost connection: Disconnected
+[19:01:01] [Server thread/INFO]: chino555 left the game
+[19:01:19] [Server thread/INFO]: chino555[/10.242.90.119:58639] logged in with entity id 162364 at (10528.286212256566, 70.15874248512135, -783.0592631290781)
+[19:01:19] [Server thread/INFO]: chino555 joined the game
+[19:01:34] [Server thread/WARN]: Zy0r moved too quickly! 10.150264406486713,4.092148465221172,0.16834958443394044
+[19:02:41] [Server thread/INFO]: Zy0r lost connection: Disconnected
+[19:02:41] [Server thread/INFO]: Zy0r left the game
+[19:02:58] [Server thread/INFO]: Stopping the server
+[19:02:58] [Server thread/INFO]: Stopping server
+[19:02:58] [Server thread/INFO]: Saving players
+[19:02:58] [Server thread/INFO]: hoa_xd lost connection: Server closed
+[19:02:58] [Server thread/INFO]: hoa_xd left the game
+[19:02:58] [Server thread/INFO]: chino555 lost connection: Server closed
+[19:02:58] [Server thread/INFO]: chino555 left the game
+[19:02:58] [Server thread/INFO]: Saving worlds
+[19:02:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:03:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19:03:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19:03:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:03:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:03:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:03:06] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
